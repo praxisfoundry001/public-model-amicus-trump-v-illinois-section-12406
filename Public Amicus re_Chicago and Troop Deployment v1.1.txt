@@ -1,0 +1,219 @@
+﻿IN THE SUPREME COURT OF THE UNITED STATES
+———————————
+No. 25A443
+———————————
+DONALD J. TRUMP, PRESIDENT OF THE UNITED STATES, ET AL.,
+Applicants, 
+v.
+ILLINOIS, ET AL.,
+Respondents. 
+———————————
+On Application for Stay
+from the United States Court of Appeals for the Seventh Circuit 
+———————————
+PUBLIC MODEL AMICUS BRIEF OF PRAXIS FOUNDRY
+IN SUPPORT OF RESPONDENTS 
+———————————
+Federalized Military Force, Constitutional Predicate,
+and 10 U.S.C. § 12406 
+Public Model Brief Disclosure
+
+
+This artifact is a public model amicus brief and civic-education document. It is not represented as a formally filed brief unless separately filed in the relevant court.
+
+
+No counsel for a party authored this model brief in whole or in part. No person or entity, other than Praxis Foundry, made a monetary contribution to its preparation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Statement of Interest
+Praxis Foundry is a public, nonpartisan research initiative dedicated to the study of constitutional legitimacy, institutional coherence, and the proportional application of state power. Its work examines how law recognizes individuals as rights-bearing participants in the civic order and how constitutional safeguards maintain the autonomy of the person against disproportionate state force.
+
+
+This public model brief clarifies the constitutional requirements governing the federalization of state military forces and emphasizes the judiciary’s role in ensuring that emergency authority is exercised only when the factual predicates required by statute are met.
+
+
+No party or counsel authorized this public model brief. 
+
+
+Summary of Argument
+The authority to federalize the National Guard under 10 U.S.C. § 12406 is conditional. It requires a statutory predicate such as invasion, rebellion, danger of rebellion, or inability with regular forces to execute federal law. In the posture addressed by this model brief, the lower courts found no sufficient predicate for the challenged deployment. Local protest activity in Chicago, as reflected in the record described by the lower courts, remained within the capacity of ordinary civil enforcement and included protected First Amendment activity.
+
+
+The preliminary injunction does not negate executive authority. It preserves constitutional proportion unless and until the statutory basis for federalizing troops is lawfully established. Maintaining the injunction protects civic presence and prevents peaceful or manageable public activity from being misrecognized as a predicate for military response.
+
+
+Law protects best when it restores proportion.
+
+
+Procedural Posture Note
+
+
+This model brief addresses the stay posture in No. 25A443 and the statutory predicate question under 10 U.S.C. § 12406. If used after further proceedings, the procedural posture, requested relief, and record references should be updated to match the current docket.
+
+
+Argument
+
+
+§ 1 — The Constitutional Boundary Begins With the Person
+The constitutional order presumes that the individual may appear before the State as a citizen exercising protected rights, not as a subject of military force.  The judiciary ensures that emergency power does not override this baseline recognition without factual justification. The State’s exercise of power is constrained by the necessity of preserving the autonomy of the person. When the State fails to recognize the citizen's civic presence, the subsequent application of force becomes an unwarranted intrusion on fundamental rights. Upholding the injunction is a judicial determination that the constitutional standard for individual protection has not been met.
+
+
+§ 2 — Recognition vs. Reflex
+This case presents a direct test between factual recognition and executive reflex. The federalization memorandum treated local civic activity as a predicate for military response. The lower-court findings, as described in the record, did not support that characterization. That mismatch matters because protected conduct may not be converted into an emergency identity merely by executive assertion. Judicial review is required to ensure that the Executive’s responsive reflex is grounded in verifiable fact, not abstract emergency claims.
+
+
+§ 3 — Statutory Predicate Requirements Under 10 U.S.C. § 12406
+The Executive’s power to federalize the National Guard is conditional and limited by the terms of 10 U.S.C. § 12406. The statute identifies specific predicates, including invasion, rebellion or danger of rebellion, and circumstances in which the President is unable with regular forces to execute federal law. The record addressed by this model brief did not establish the kind of predicate required to convert ordinary civil enforcement conditions into a military-response case. Invoking emergency force without the statutory predicate is not the legitimate exercise of delegated power; it is the displacement of the condition that makes the power lawful.
+
+
+§ 4 — The Injunction Preserves Proportion
+The preliminary injunction does not vitiate the Executive’s statutory authority; it prevents the immediate coercive effect of military mobilization absent the required predicate. This judicial intervention holds the constitutional boundary until the factual basis required by 10 U.S.C. § 12406 is properly tested. It prevents executive reflex from exceeding statutory justification and protects against unwarranted intrusion upon protected rights, local authority, and ordinary civic participation. The injunction thus operates as a proportional mechanism designed to preserve balance before irreversible harm is inflicted.
+
+
+§ 5 — Conclusion
+Judicial review of National Guard federalization is an exercise in maintaining the structural integrity of separation of powers and federalism. When the Executive asserts emergency authority, the constitutional scheme requires courts to test the factual basis of the intervention against the terms of the authorizing statute. The injunction should remain in place unless the statutory predicate is established. That result prevents military force from being applied absent legal necessity and confirms the principle at the center of this model brief: law protects best when it restores proportion.
+
+
+Respectfully submitted,
+
+
+Praxis Foundry
+Open-Source Civic Research Initiative
+
+
+Public Model Amicus Brief
+No party contributed funds to the preparation of this model brief. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Declaration of Generative AI and AI-Assisted Technologies
+
+
+During the preparation and revision of this model brief, the author used generative AI tools to assist with drafting support, language refinement, structural editing, legal-form review, and clarity. All substantive arguments, legal-positioning choices, theoretical claims, scope decisions, and final editorial judgments are the author’s own. The author reviewed and approved the final model brief and takes full responsibility for its content.
