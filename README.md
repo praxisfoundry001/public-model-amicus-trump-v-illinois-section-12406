@@ -30,6 +30,6 @@ This artifact belongs with Praxis Foundry civic/public-law bridge artifacts conc
 
 ## Citation / DOI
 
-Zenodo DOI: DOI PENDING
+Zenodo DOI: https://doi.org/10.5281/zenodo.19894715
 
 PDF available via DOI link once published.
